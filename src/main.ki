@@ -1,0 +1,6 @@
+
+namespace hello;
+
+func greet(String name) {
+	ki:io:println("Hello " + name);
+}
