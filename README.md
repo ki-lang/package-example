@@ -12,5 +12,5 @@ ki pkg install github.com/ki-lang/package-example latest example
 ## API
 
 ```
-hello:greet(String name)
+example:hello:greet(String name)
 ```
