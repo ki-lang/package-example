@@ -2,5 +2,6 @@
 namespace hello;
 
 func greet(String name) {
-	ki:io:println("Hello " + name);
+	ki:io:print("Hello ");
+	ki:io:println(name);
 }
