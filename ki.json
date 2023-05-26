@@ -1,4 +1,6 @@
 {
+	"name": "pkg_example",
+	"version": "0.0.1",
 	"namespaces": {
 		"hello": "src"
 	}
