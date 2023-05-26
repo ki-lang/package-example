@@ -9,8 +9,11 @@ A package to test the package manager of ki.
 ki pkg add github.com/ki-lang/package-example latest example
 ```
 
-## API
+## Usage
 
 ```
-example:hello:greet(String name)
+use example:greet;
+
+greet:hello("world");
+
 ```
