@@ -1,7 +1,5 @@
 
-namespace hello;
-
-func greet(String name) {
-	ki:io:print("Hello ");
-	ki:io:println(name);
+func hello(msg: *String) {
+	println("Hello %!"{ msg });
 }
+

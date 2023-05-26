@@ -1,7 +1,7 @@
 {
 	"name": "pkg_example",
-	"version": "0.0.1",
+	"version": "0.0.6",
 	"namespaces": {
-		"hello": "src"
+		"greet": "src"
 	}
 }
