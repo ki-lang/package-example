@@ -1,5 +1,5 @@
 
-func hello(msg: *String) void {
+fn hello(msg: *String) {
 	println("Hello %!"{ msg });
 }
 
